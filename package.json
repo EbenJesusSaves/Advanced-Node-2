@@ -1,0 +1,16 @@
+{
+  "name": "node-advanced",
+  "version": "1.0.0",
+  "description": "just for justing sake",
+  "main": "./CSV Reading/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "test",
+    "dev": "node"
+  },
+  "author": "me",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parse": "^5.5.6"
+  }
+}
